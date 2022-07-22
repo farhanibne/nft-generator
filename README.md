@@ -1,26 +1,4 @@
-# Create An ENTIRE NFT Collection (10,000+) & MINT
 
-## Table of Contents
-
-- [RESOURCES](#resources)
-- [COMMANDS](#commands)
-- [UPDATES & FIXES](#updates--fixes)
-
-## RESOURCES
-
-Original Video: 
-
-👴 [How To Create An ENTIRE NFT Collection (10,000+) & MINT In Under 1 Hour Without Coding Knowledge](https://youtu.be/AaCgydeMu64)
-
-(WATCH THIS ONE!) Updated video for v2.0.0 release: 
-
-🌟 [How To Create An ENTIRE NFT Collection (10,000+) & MINT with ZERO Coding Knowledge v2.0](https://youtu.be/quGdJweadFM)
-
-How to automate listing for sale on OpenSea: 
-
-💰 [How To List & Reveal An ENTIRE NFT Collection (10,000+) Without Coding Knowledge on OpenSea](https://youtu.be/Iy1n_LxUwZs)
-
-Original video code: [v0.1.0-alpha](https://github.com/codeSTACKr/video-source-code-create-nft-collection/releases/tag/v0.1.0-alpha)
 
 Base code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
 
