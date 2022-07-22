@@ -4,11 +4,7 @@ Base code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art
 
 Minting uses [NFTPort](https://nftport.xyz)
 
-Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
 
-The macro script from the "listing for sale" video: [macro1.mmmacro](macro1.mmmacro)
-
-UPDATE: Added rarity calculator. See this [video](https://youtu.be/Uz1y4j9gvP8) for the walkthrough.
 
 ## COMMANDS
 
